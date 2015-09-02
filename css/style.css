@@ -134,8 +134,8 @@ span.menu {
 label{
 	 font-weight:normal;
 }
-/*--service--*/
-.service{
+/*--education--*/
+.education{
 	padding:5em 0;
 }
 .icon-pic {
@@ -178,7 +178,7 @@ label{
   color: #999;
   margin-top:0.7em;
 }
-.service-grids{
+.education-grids{
 	margin-top:3.5em;
 }
 .grids2{
@@ -188,7 +188,7 @@ label{
 .about{
 	padding:2em 0
 }
-.about-right h3,.service h3,.gallery h3,.blog h3,.contact h3{
+.about-right h3,.education h3,.gallery h3,.blog h3,.contact h3{
 	color:#3598db;
 	font-size:2.5em;
 	font-family: 'Dosis-bold';
@@ -700,10 +700,10 @@ padding:2em 0 0.5em 0;
   width: 100%;
   min-height: 320px;
 }
-.about-right h3, .service h3, .gallery h3, .blog h3, .contact h3 {
+.about-right h3, .education h3, .gallery h3, .blog h3, .contact h3 {
   font-size: 2em;
 }
-.service {
+.education {
   padding: 3em 0;
 }
 .icon-info h4 a {
@@ -880,7 +880,7 @@ padding:2em 0 0.5em 0;
 .grids2 {
   margin-top:0em;
 }
-.service-grids {
+.education-grids {
   margin-top: 2em;
 }
 .about-left {
@@ -893,7 +893,7 @@ padding:2em 0 0.5em 0;
   width: 100%;
   padding: 2em 1.5em 0 1.5em;
 }
-.service {
+.education {
   padding:2em 0 1em 0;
 }
 .about {
@@ -1069,10 +1069,10 @@ span.menu {
   background: url(../images/img1.jpg) no-repeat 0px 0px;
   background-size:cover;
 }
-.about-right h3, .service h3, .gallery h3, .blog h3, .contact h3 {
+.about-right h3, .education h3, .gallery h3, .blog h3, .contact h3 {
   font-size: 1.5em;
 }
-.service-grids {
+.education-grids {
   margin-top: 1.5em;
 }
 .about-right {
